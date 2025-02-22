@@ -1,4 +1,4 @@
-package lecturetime;
+package loops;
 
 public class java_loops
 {
