@@ -1,3 +1,4 @@
+package funtion;
 import java.util.*;
 
 public class calculator {
