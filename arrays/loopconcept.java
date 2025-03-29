@@ -8,7 +8,7 @@ public class loopconcept {
         marks[2]= 45;
     
         //System.out.println(marks[0]);
-        for (int i = 0; i <3; i++) {
+        for (int i = 0; i <marks.length; i++) {
             System.out.println(marks[i]);
             
         }
