@@ -14,6 +14,9 @@ public class calculator {
     }
 
     
+
+
+    
     public static int multiSimple ( int x, int y) {
         return x*y;
 
@@ -47,7 +50,7 @@ public class calculator {
             default: System.out.println( " enter the valid operator ");
                 break;
 
-            case; 
+            
                  
 
         }

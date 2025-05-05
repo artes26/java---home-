@@ -7,7 +7,7 @@ public class java_loops
      /*
            FOR (Initialisation ; condition ; updation ) { do something }
       */
-//       for (int counter = 0 ; counter < 100 ; counter = counter + 1 )
+//       for (int counter(or - i)= 0 ; counter < 100 ; counter = counter + 1 )
 //       {
 //           System.out.println(" hello world ");
 //           System.out.println( " hello");
