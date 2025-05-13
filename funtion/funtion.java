@@ -1,12 +1,15 @@
 package funtion;
 // publi static  returnType funtionName (type arg1 , type arg2 ... ) { 
+//                  |---- int, float , string 
+
 //     // operation 
 // }
 import java.util.*;
 public class funtion {
 
-    public static void printMyName ( String name ) {
+    public static void printMyName ( String name ) {      // void - no return type 
         System.out.println(name);
+
         return;
 
     }
