@@ -40,10 +40,14 @@ public class calculator {
         int b = sc.nextInt();
 
         System.out.println(" enter the opretor : ");
+        
 
-        char ch = Obj.nextLine().charAt(0);
+char ch = sc.next().charAt(0);
+
+ 
+      
         switch (ch) {
-            case '+': System.out.println( );
+            case '+': System.out.println(addSimple(a, b));
                 
                 break;
         
