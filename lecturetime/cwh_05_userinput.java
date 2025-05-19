@@ -1,4 +1,3 @@
-package lecturetime;
 
 import java.util.Scanner;
 

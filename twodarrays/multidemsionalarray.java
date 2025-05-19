@@ -1,8 +1,8 @@
-package arrays;
+package twodarrays;
 
-public class multidemsionalarray{
+    public class multidemsionalarray{
     public static void main(String[] args) {
-        int [] marks; // A 1-D Array
+       // int [] marks; // A 1-D Array
         int [][] flats; // A 2-D Array
         flats = new int [2][3];
         flats[0][0] = 101;
@@ -23,4 +23,5 @@ public class multidemsionalarray{
         }
 
     }
+
 }

@@ -1,5 +1,3 @@
-package lecturetime;
-
 public class chw_opret
 {
     public static void main(String[] args)

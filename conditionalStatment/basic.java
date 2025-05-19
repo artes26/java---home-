@@ -23,12 +23,12 @@ if(age > 18) {
 // variable to multiple values. After a match is found, it executes the
 // corresponding code of that value case.
 // The following example is to print days of the week:
-
 Scanner sc = new Scanner(System.in);
+// Scanner sc = new Scnaner(System.in);
 int a= sc.nextInt();
 
-int n = a;
-switch(n) {
+//  int n = a;
+switch(a) {
    case 1 :
        System.out.println("Monday");
        break;

@@ -1,4 +1,4 @@
-.2-d_arays;
+package twodarrays;
 public class intro {
 
     public static void main(String[] args) {
