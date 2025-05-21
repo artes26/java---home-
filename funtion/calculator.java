@@ -60,5 +60,4 @@ char ch = sc.next().charAt(0);
         }
 
     }
-    
 }
