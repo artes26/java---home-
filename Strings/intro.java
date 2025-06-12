@@ -38,6 +38,8 @@ public class intro {
 
          System.out.println(name);
 
+         // String are imutable
+
     }
 
     
